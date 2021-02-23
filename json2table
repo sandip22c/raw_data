@@ -1,3 +1,6 @@
+from __future__ import division, print_function, absolute_import
+from .json2table import convert
+
 """
 A simple tool for converting JSON to an HTML table.
 This is based off of the `json2html` project.
