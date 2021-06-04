@@ -1,0 +1,17 @@
+Package            Version
+------------------ -----------
+attrs              21.2.0
+configparser       4.0.2
+contextlib2        0.6.0.post1
+functools32        3.2.3.post2
+importlib-metadata 2.1.1
+jsonschema         3.2.0
+pathlib2           2.3.5
+pip                20.3.4
+pyrsistent         0.16.1
+scandir            1.10.0
+setuptools         28.8.0
+six                1.16.0
+wheel              0.29.0
+zipp               1.2.0
+
