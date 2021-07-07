@@ -1,0 +1,12 @@
+list_1  = [1, 2,3,4]
+list_2 = [1,2,3,4]
+<table>
+{% for i in list_1 %}
+      {% set item_1 = list_1[loop.index-1] %}
+      {% set item_2 = list_2[loop.index-1] %}
+     <tr>
+           <td> {{ item_1 }} </td>
+           <td>  {{ item_2 }} </td>
+    </tr>
+{% endfor %}
+  </table>
